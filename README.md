@@ -8,5 +8,5 @@
    r, annual rate of interest
 </pre>
    **Output**
-   simple interest = p*t*r
+  <pre> simple interest = p*t*r</pre>
 
